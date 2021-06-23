@@ -1,0 +1,27 @@
+body
+{
+    background-image: url("bg.png");
+    background-position: top;
+    font-family: 'Lakki Reddy', cursive;
+}
+label
+{
+    color: orchid;
+    font-size: 14px;
+}
+b
+{
+    color: crimson;
+    font-size: 15px;
+}
+button
+{
+    background-color: pink;
+    color: slateblue;
+    border-radius: 10px;
+}
+#Webcam
+{
+    border: 15px 12px 12px plum outset;
+    padding: 14px;
+}
